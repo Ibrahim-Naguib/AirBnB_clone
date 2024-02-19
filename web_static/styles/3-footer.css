@@ -9,3 +9,7 @@ footer {
   border-top: 1px solid #cccccc;
   margin-top: auto;
 }
+.fixed {
+  position: absolute;
+  bottom: 0;
+}
