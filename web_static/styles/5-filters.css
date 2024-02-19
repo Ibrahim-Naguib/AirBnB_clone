@@ -19,7 +19,7 @@
   margin-left: auto;
 }
 .filters button:hover {
-  opacity: 90%;
+  opacity: 0.9;
 }
 .filters .location,
 .filters .amenities {
